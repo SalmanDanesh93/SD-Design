@@ -117,7 +117,7 @@ transition: 0.3s ease-in-out;
 .banner {
   margin-top: 0;
   padding: 260px 0 100px 0;
-  background-image: url('./assets/dronesky.JPG');
+  /* background-image: url('./assets/dronesky.JPG'); */
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -190,7 +190,7 @@ transition: 0.3s ease-in-out;
 
 .footer {
   padding: 0 0 100px 0;
-  background-image: url('./assets/morrorock.JPG');
+  /* background-image: url('./assets/morrorock.JPG'); */
   background-position: center center;
   background-size: cover;
 }

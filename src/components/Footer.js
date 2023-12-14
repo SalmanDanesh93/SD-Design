@@ -1,6 +1,5 @@
-import { Container, Row, Col } from "react-boostrap";
-// optional logo 
-// import logo from "../assets/sullyscreative.png";
+import { Container, Row, Col } from "react-bootstrap";
+import logo from "../assets/sullyscreative.png";
 
 export const Footer = () => {
     return (
